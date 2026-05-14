@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63441751370",
+    "project_id": "pipa-35e1f",
+    "storage_bucket": "pipa-35e1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63441751370:android:8ef48a750a28cc3112c5b3",
+        "android_client_info": {
+          "package_name": "com.trabalho.pipa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7h9bHzjOVuQCi6RDobGtIe-GZ8jHoGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
